@@ -1,0 +1,1 @@
+Contains traditional denoising and deblurring algorithms: Adaptive mean/medium filter, notch filter, bilateral filter, etc
